@@ -15,10 +15,16 @@
 
 
 `git init`
+
 `git clone`
+
 `git fetch`
+
 `git pull`
+
 `git add`
+
 `git commit`
+
 `git push`
 
