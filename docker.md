@@ -3,6 +3,8 @@
 - images
 - container
 
+## Images
+
 *Kiểm tra các images hiện có*
 
 `docker images` 
@@ -16,14 +18,16 @@
 
 `docker rm " ID images"`
 
-*thực thi images*
+## container
+
+*thực thi images/ khởI tạo container*
 
 `docker run -it "tên images / ID images"`
 > -i tương tác
 > -t dùng terminal
 
 
-`docker run -it --name " tên container" -h "host name"`
+`docker run -it --name " tên container" -h "hostname images"`
 
 >
 >
