@@ -41,7 +41,7 @@ _`1>&2` chuyển stdout thành stderr_
 * `grep -i` không phân biệt chữ hoa , thường
 * `grep -v` lọc tất cả kết quả không giống từ khoá đang chọn
 * kết hợp cả 2 `grep -vi` 
-* 
+
 ![](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/8.png)
 
 
@@ -52,3 +52,44 @@ _`1>&2` chuyển stdout thành stderr_
 * có thể thay đổi số dòng hiển thị ngay sau chữ A,B,C ví dụ: A2, B10, C200
 
 ![](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/9.png)
+
+## tr
+
+**translate**
+
+thay thế hoặc xoá kí tự
+
+![tr](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/10.png)
+
+thay thế n thành N
+
+
+chuyển tất cả kí tự in thường thành hoa và ngược lại
+![tr](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/11.png)
+
+
+xoá kí tự 'h'
+![tr](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/12.png)
+
+
+## sort
+
+**mặc định sắp xếp theo a->z**
+
+![sort](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/13.png)
+
+
+
+sắp xếp theo cột thứ 2 dùng option `-k[số cột]`
+
+![tr](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/14.png)
+
+
+
+muốn sắp xép theo chữ số dùng option `-n`
+
+![tr](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/15.png)
+
+
+
+
