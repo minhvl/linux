@@ -1,4 +1,5 @@
 # Chương V
 
 
-![image](B:\git\github\linux\image\2.jpg)
+![](\image\bank.png)
+![image info](\image\2.jpg)
