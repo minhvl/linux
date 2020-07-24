@@ -1,9 +1,11 @@
-# Chương V
+# V: pipe and command
 
 
-![](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/1.jpg)
-![1](.\image/New%20folder/1.jpg)
+## tac
 
-![](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/2.jpg)
-![2](\image/New%20folder/2.jpg)
+in ra các dòng của file theo thứ tự từ dưới lên trên ( ngược với `cat`)
+
+![tac](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/1.jpg)
+
+
 
