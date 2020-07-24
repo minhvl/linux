@@ -68,8 +68,11 @@ chuyển tất cả kí tự in thường thành hoa và ngược lại
 ![tr](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/11.png)
 
 
-xoá kí tự 'h'
+
 ![tr](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/12.png)
+
+
+xoá kí tự 'h'
 
 
 ## sort
@@ -91,5 +94,37 @@ muốn sắp xép theo chữ số dùng option `-n`
 ![tr](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/15.png)
 
 
+## uniq
+
+**Loại bỏ những kết quả trùng từ sort list**
+
+uniq có thể thống kê tần xuất các kết quả trùng vớI option ` uniq -c`
+
+![uniq](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/16.png)
+
+
+## comm
+
+**Comparing streams (or files)**
+
+
+có file 1 và file 2
+
+![comm](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/17.png)
+
+mặc định có 3 cột
+
+![comm](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/18.png)
+
+* cột 1: các dữ liệu chỉ có ở file 1
+* cột 2: các dữ liệu chỉ có ở file 2
+* cột 3: các dữ liệu chỉ có ở cả 2 file
+   
+
+
+
+![comm](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/19.png)
+
+output có thể chỉ hiện thị 2 hoặc 1 cột, các chữ số thể hiện số cột không được hiển thị
 
 
