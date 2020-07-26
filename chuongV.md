@@ -64,9 +64,10 @@ thay thế hoặc xoá kí tự
 thay thế n thành N
 
 
-chuyển tất cả kí tự in thường thành hoa và ngược lại
+
 ![tr](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/11.png)
 
+chuyển tất cả kí tự in thường thành hoa và ngược lại
 
 
 ![tr](https://github.com/minhvl/linux/blob/trainning/image/New%20folder/12.png)
