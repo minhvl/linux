@@ -114,3 +114,20 @@ d$ |  ![line](https://github.com/minhvl/linux/blob/trainning/image/VI/20.png)
 * 7dw xoá 7 từ
 
 
+|Command | Action|
+:---------:|:---------|
+w  |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/23.png)
+b  |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/24.png)
+dw |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/25.png)
+yw |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/26.png)
+
+
+## lưu, thoát
+
+* :w save (write)
+* :q quit
+* :wq save and quit
+* ZZ save and quit
+* :q! quit (discarding your changes)
+
+## tìm kiếm
