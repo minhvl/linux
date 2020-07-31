@@ -49,3 +49,46 @@ r |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/11.png)
 p |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/12.png)
 xp |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/13.png)
 
+## undo
+
+`u` : undo 
+
+## cắt, sao chép, dán dòng
+
+
+1. `v` (hoặc `V` nếu bạn muốn cut cả dòng).
+2. Di chuyển con trỏ đến vị trí cuối đoạn văn bản muốn cut
+3. Bấm `d`
+   
+
+* yy (yank yank) sao chép dòng hiện tại
+* p dán dòng vừa sao chép ngay dưới dòng hiện tại
+* P dán dòng vừa sao chép ngay trên dòng hiện tại
+
+|Command | Action|
+:---------:|:---------|
+yy |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/14.png)
+p |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/15.png)
+P |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/16.png)
+
+
+cut hoặc coppy nhiều dòng thêm số (dòng)
+
+* 3V: cut 3 dòng bắt đầu từ dòng hiện tại
+* 4yy: copy 4 dòng bắt đầu từ dòng hiện tại
+
+
+## bắt đầu và kết thúc của dòng
+
+* 0 hoặc ^: nhảy đến đầu dòng
+* $ :       nhảy đến cuối dòng
+* d0:  xoá đến đầu dòng
+* d$:  xoá đến cuối dòng
+
+|Command | Action|
+:---------:|:---------|
+0 hoặc ^ |  ![line](https://github.com/minhvl/linux/blob/trainning/image/VI/17.png)
+$ |  ![line](https://github.com/minhvl/linux/blob/trainning/image/VI/18.png)
+d0 |  ![line](https://github.com/minhvl/linux/blob/trainning/image/VI/19.png)
+d$ |  ![line](https://github.com/minhvl/linux/blob/trainning/image/VI/20.png)
+
