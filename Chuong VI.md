@@ -6,7 +6,9 @@ có 2 chế độ: comand và insert
 
 ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/1.png)
 
-**truy cập chế độ insert**
+
+
+## vào chế độ insert
 
 * a bắt đầu ngay sau kí tự đang chọn
 * A bắt đầu tại cuối dòng đang chọn
@@ -29,3 +31,21 @@ i |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/5.png)
 I |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/6.png)
 o |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/7.png)
 O |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/8.png)
+
+## thay thế, xoá kí tự
+
+* x xoá kí tự ngay tại con trỏ chuột
+* X xoá kí tự ngay trước con trỏ chuột
+* r thay thế kí tự ngay tại con trỏ chuột ( sau đó nhập kí tự mới)
+* p dán kí tự ngay sau con trỏ chuột (kí tự xoá cuối cùng)
+* xp thay đối 2 kí tự với nhau
+  
+
+|Command | Action|
+:---------:|:---------|
+x |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/9.png)
+X |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/10.png)
+r |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/11.png)
+p |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/12.png)
+xp |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/13.png)
+
