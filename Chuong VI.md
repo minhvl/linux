@@ -92,3 +92,25 @@ $ |  ![line](https://github.com/minhvl/linux/blob/trainning/image/VI/18.png)
 d0 |  ![line](https://github.com/minhvl/linux/blob/trainning/image/VI/19.png)
 d$ |  ![line](https://github.com/minhvl/linux/blob/trainning/image/VI/20.png)
 
+## nối 2 dòng lien tiếp
+`J`
+
+![line](https://github.com/minhvl/linux/blob/trainning/image/VI/21.png)
+
+
+`yyp` nhân đôi dòng
+
+![line](https://github.com/minhvl/linux/blob/trainning/image/VI/22.png)
+
+
+## cắt, xoá, sao chép từ
+
+
+* w nhảy tới từ tiếp theo
+* b lùi lại từ trước đó
+* 3w nhảy tới 3 từ tiếp theo
+* dw xoá 1 từ
+* yw sao chép 1 từ
+* 7dw xoá 7 từ
+
+
