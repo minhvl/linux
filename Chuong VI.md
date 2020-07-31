@@ -21,8 +21,8 @@ ví dụ: kí tự đang chọn là `e` dòng 2
 ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/2.png)
 
 
-|Command | Column C|
-:---------:|:---------:|
+|Command | Action|
+:---------:|:---------|
 a |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/3.png)
 A |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/4.png)
 i |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/5.png)
