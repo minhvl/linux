@@ -131,3 +131,31 @@ yw |  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/26.png)
 * :q! quit (discarding your changes)
 
 ## tìm kiếm
+
+
+`/string`  tìm kiếm 'string'
+
+
+
+  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/27.png)
+
+  tìm kiếm 'qwe'
+
+
+  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/28.png)
+
+  tìm kiếm 'qwe' 'qwi' 'qwo'
+
+
+  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/29.png)
+
+  tìm kiếm chuỗi 'da' ( khác `asdasd`)
+
+  ## thay thế
+
+  ![vi](https://github.com/minhvl/linux/blob/trainning/image/VI/30.png)
+
+  2 chữ cái đầu thể hiện phạm vi thay thế ( từ dòng 1 đến dòng cuối)
+
+
+
