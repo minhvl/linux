@@ -53,3 +53,80 @@ sử dụng `source ./filename` hoặc `. ./filename`
 `bash -x` xem các lệnh mà shell thực thi
 
 ![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/7.png)
+
+
+## Test
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/8.png)
+
+
+có thể viết thành `true` và `false`
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/9.png)
+
+
+
+câu lệnh `test` có thể  viết là ` []`
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/10.png)
+
+
+
+kết hợp với các phép toàn login `-a` (and) ; `-o` (or)
+
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/11.png)
+
+
+## if then else
+
+Script kiểm tra file `1.txt` có tồn tại ko?
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/12.png)
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/13.png)
+
+
+
+## if then elif
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/14.png)
+
+
+## for loop
+
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/15.png)
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/16.png)
+
+lặp lại câu lệnh echo cho tới khi in ra hết kết quả
+
+
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/17.png)
+
+biến là 1 dãy số tự nhiên liên tiếp nhau
+
+
+
+## while loop
+
+đếm ngược từ 10 về 0
+
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/18.png)
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/19.png)
+
+
+## until loop
+
+_Ngược lại while loop_
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/20.png)
+
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/21.png)
+
+
