@@ -130,3 +130,63 @@ _Ngược lại while loop_
 ![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/21.png)
 
 
+## Parameter ( tham số )
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/22.png)
+
+1 số tham số đặc biệt
+
+
+
+ tạo và truyền tham số
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/23.png)
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/24.png)
+
+
+Trường hợp chỉ truyền 1 tham số
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/25.png)
+
+
+## truyền tham số có khoảng cách
+
+sử dụng `""` hoặc `''`
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/26.png)
+
+## runtime input
+
+hỏi để nhập tham số từ màn hình command sử dụng `read`
+
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/27.png)
+
+
+## sourcing a config file
+
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/28.png)
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/29.png)
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/30.png)
+
+## getops
+
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/31.png)
+
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/32.png)
+
+
+
+## let
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/33.png)
+
+
+$$ case
+
+![vii](https://github.com/minhvl/linux/blob/trainning/image/VII/34.png)
